@@ -10,4 +10,5 @@ dependencies = [
     "numpy>=2.4.4",
     "pandas>=3.0.3",
     "pytta>=0.1.1",
+    "scipy>=1.17.1",
 ]
